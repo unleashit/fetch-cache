@@ -1,4 +1,4 @@
-> This repo has been Archived. A drop-in replacement (with new features and a name that better matches) can be found at https://github.com/next-promise-cache or installed as `npm install next-promise-cache`.
+> This repo has been Archived. A drop-in replacement (with new features and a name that better matches) can be found at https://github.com/unleashit/next-promise-cache or installed as `npm install next-promise-cache`.
 
 
 # fetch-cache

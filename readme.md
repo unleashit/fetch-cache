@@ -1,3 +1,6 @@
+> This repo has been Archived. A drop-in replacement (with new features and a name that better matches) can be found at https://github.com/next-promise-cache or installed as `npm install next-promise-cache`.
+
+
 # fetch-cache
 
 [![NPM](https://img.shields.io/npm/l/@unleashit/fetch-cache.svg)](https://github.com/unleashit/fetch-cache/blob/master/LICENSE)
